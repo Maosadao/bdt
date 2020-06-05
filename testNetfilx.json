@@ -2,51 +2,51 @@
     "name": "netflix",
     "children": [
       {
-        "name": "analytics",
+        "name": "section1",
         "children": [
           {
-            "name": "cluster",
+            "name": "year",
             "children": [
               {
-                "name": "AgglomerativeCluster",
-                "size": 3938
+                "name": "2017",
+                "size": 962
               },
               {
-                "name": "CommunityStructure",
-                "size": 3812
+                "name": "2018",
+                "size": 1281
               },
               {
-                "name": "HierarchicalCluster",
-                "size": 6714
+                "name": "2019",
+                "size": 2040
               },
               {
-                "name": "MergeEdge",
+                "name": "2020",
                 "size": 743
               }
             ]
           },
           {
-            "name": "graph",
+            "name": "rate",
             "children": [
               {
-                "name": "BetweennessCentrality",
-                "size": 3534
+                "name": "TV-MA",
+                "size": 1350
               },
               {
-                "name": "LinkDistance",
-                "size": 5731
+                "name": "TV-MG",
+                "size": 1570
               },
               {
-                "name": "MaxFlowMinCut",
-                "size": 7840
+                "name": "R",
+                "size": 1780
               },
               {
-                "name": "ShortestPaths",
-                "size": 5914
+                "name": "TV-TEEN",
+                "size": 459
               },
               {
-                "name": "SpanningTree",
-                "size": 3416
+                "name": "TV-KIDS",
+                "size": 134
               }
             ]
           },
